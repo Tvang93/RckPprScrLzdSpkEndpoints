@@ -1,0 +1,6 @@
+@RckPprScrLzdSpkEndpoints_HostAddress = http://localhost:5279
+
+GET {{RckPprScrLzdSpkEndpoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
