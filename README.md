@@ -16,8 +16,10 @@ Brief Description:
         Get your designed approved 
     Be Creative and Have Fun!
 
-Link: https://rckpprscrlzdspk-gnb2bqcpf6adgrdq.westus-01.azurewebsites.net/RckPprScrLzdSpk/RPSLS
+Link: https://rckpprscrl.zdspk-gnb2bqcpf6adgrdq.westus-01.azurewebsites.net/RckPprScrLzdSpk/RPSLS
 
 Figma: https://www.figma.com/design/ZnIXW7lhkrCUHutajkpXOG/Projects-2?node-id=84-2&t=AlQ1qNp5Jt9tu96G-1
 
 Peer Review:
+Darryl P
+Code looks great. Evertyhing works as it should. Endpoint works and returns. Great Job Thao!
