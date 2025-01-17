@@ -16,7 +16,7 @@ Brief Description:
         Get your designed approved 
     Be Creative and Have Fun!
 
-Link: https://rckpprscrl.zdspk-gnb2bqcpf6adgrdq.westus-01.azurewebsites.net/RckPprScrLzdSpk/CpuChoice
+Link: https://rckpprscrlzdspk-gnb2bqcpf6adgrdq.westus-01.azurewebsites.net/RckPprScrLzdSpk/CpuChoice
 
 Figma: 
 Appoved by Jacob
