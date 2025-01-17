@@ -19,7 +19,7 @@ namespace RckPprScrLzdSpkEndpoints.Controllers
         }
 
         [HttpGet]
-        [Route("RPSLS")]
+        [Route("CpuChoice")]
         public string CpuChoice()
         {
             return _rckPprScrLzdSpkServices.CpuChoice();
